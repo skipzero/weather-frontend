@@ -1,4 +1,10 @@
-/* svg {
-  width: 1200px;
-  height: 600px;
-} */
+svg {
+  background: #d3d3d3;
+  width: 1000px;
+  height: 750px;
+  margin: 50px 100px;
+}
+
+.bar {
+  fill: red;
+}
